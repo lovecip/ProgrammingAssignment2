@@ -1,4 +1,4 @@
-## Usage : 
+## How to test these functions : 
 ## 1. Create a matrix
 ## >m <- rbind(c(1,2),c(3,4))
 ## >m
